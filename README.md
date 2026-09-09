@@ -1,3 +1,11 @@
+
+<p align="center">
+  <img src="./banner.gif" width="100%">
+</p>
+
+
+
+
 # 👋 Hi, I'm Ariful Islam
 
 ### 💻 Full Stack Web Developer
